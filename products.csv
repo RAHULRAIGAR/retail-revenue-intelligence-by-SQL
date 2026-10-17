@@ -1,0 +1,41 @@
+product_id,product_name,category,list_price,unit_cost,launch_date
+1,Wireless Mouse,Electronics,799,390,2024-03-16
+2,Mechanical Keyboard,Electronics,2499,1350,2025-10-19
+3,USB-C Hub,Electronics,1899,980,2025-07-10
+4,Bluetooth Speaker,electronics,3299,1900,2025-01-08
+5,Headphones,Electronics,2199,1120,2025-01-03
+6,Webcam,Electronics,2799,1580,2025-12-30
+7,Power Bank,Electronics,1499,760,2024-03-14
+8,Smart Watch,Electronics,4999,3100,2025-08-15
+9,Mixer Grinder,Home & Kitchen,3499,2200,2024-06-20
+10,Electric Kettle,Home & Kitchen,1299,680,2024-03-21
+11,Air Fryer,Home & Kitchen,6999,4500,2025-03-23
+12,Storage Containers,Home & Kitchen,699,280,2026-04-09
+13,Desk Lamp,Home & Kitchen,1199,570,2025-09-17
+14,Bedsheet Set,Home & Kitchen,1599,780,2025-10-08
+15,Water Bottle,Home & Kitchen,499,190,2025-09-01
+16,Vacuum Cleaner,Home & Kitchen,8999,6200,2025-10-30
+17,Cotton T-Shirt,Fashion,599,220,2025-03-12
+18,Denim Jeans,Fashion,1799,790,2024-04-18
+19,Running Shoes,Fashion,2999,1450,2025-12-14
+20,Backpack,Fashion,1399,620,2025-01-17
+21,Wallet,Fashion,799,310,2025-03-01
+22,Sunglasses,Fashion,999,360,2024-11-11
+23,Hoodie,Fashion,1499,640,2024-06-04
+24,Sports Socks Pack,Fashion,399,120,2026-02-26
+25,Notebook Pack,Office Supplies,299,110,2025-10-26
+26,Ballpoint Pens,Office Supplies,149,45,2025-07-01
+27,Office Chair,Office Supplies,7999,5100,2024-12-08
+28,Monitor Stand,Office Supplies,1599,740,2025-11-30
+29,Printer Paper,Office Supplies,449,280,2025-04-08
+30,Desk Organizer,Office Supplies,699,260,2025-01-11
+31,Whiteboard,Office Supplies,1299,610,2025-01-17
+32,Stapler Set,Office Supplies,249,85,2024-07-12
+33,Face Wash,Beauty & Personal Care,349,130,2024-03-19
+34,Moisturizer,Beauty & Personal Care,599,240,2025-04-16
+35,Shampoo,Beauty & Personal Care,399,170,2026-01-24
+36,Hair Dryer,Beauty & Personal Care,1799,920,2024-02-24
+37,Trimmer,Beauty & Personal Care,1499,760,2025-12-30
+38,Sunscreen,Beauty & Personal Care,499,210,2025-12-04
+39,Perfume,Beauty & Personal Care,1299,650,2024-08-23
+40,Skin Care Kit,Beauty & Personal Care,1999,1050,2025-06-20
